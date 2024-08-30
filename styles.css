@@ -1,0 +1,26 @@
+*{
+    background-color: yellow;
+}
+
+.link{
+    background-color: rgb(255, 255, 255);
+    
+}
+
+.header{
+    color:red;
+    text-align: center;
+    font-weight: bolder;
+    text-decoration-line: underline;
+
+}
+
+.list{
+    color: rgb(16, 0, 235);
+}
+
+.image{
+     width: 500px;
+     height: auto;
+     margin: auto;
+}
